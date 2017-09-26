@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "720870152861",
+    "firebase_url": "https://biblio-proj-15f47.firebaseio.com",
+    "project_id": "biblio-proj-15f47",
+    "storage_bucket": "biblio-proj-15f47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720870152861:android:99f661c9f18acd31",
+        "android_client_info": {
+          "package_name": "com.example.rodarte.biblioteca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720870152861-sb5pi73hum2hn9n54o9qm7bubi83ld94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rodarte.biblioteca",
+            "certificate_hash": "2c8b1eea985ecf4f9a18c1822de46d4b3f8a3969"
+          }
+        },
+        {
+          "client_id": "720870152861-esmi276ad846di90vqhibdspqbisumrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWVdlnowm55abvtbJZH10dDsc3TaiAUUo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720870152861-esmi276ad846di90vqhibdspqbisumrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720870152861:android:a6017df6a098e88f",
+        "android_client_info": {
+          "package_name": "com.example.rodarte.bibliotecaproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720870152861-tb7da0d3lgtji5ke8quk6902372lcuui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rodarte.bibliotecaproj",
+            "certificate_hash": "2c8b1eea985ecf4f9a18c1822de46d4b3f8a3969"
+          }
+        },
+        {
+          "client_id": "720870152861-esmi276ad846di90vqhibdspqbisumrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWVdlnowm55abvtbJZH10dDsc3TaiAUUo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720870152861-esmi276ad846di90vqhibdspqbisumrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
